@@ -1,0 +1,10 @@
+public class TestCase1{
+	@Test
+	public static void Test1(){
+		System.out.println("Your TestScript is-1");
+	}
+@Test
+	public static void Test2(){
+		System.out.println("Your TestScript is-1");
+	}
+}
